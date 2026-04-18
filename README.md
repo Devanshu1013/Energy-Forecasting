@@ -1,11 +1,4 @@
-# DS8013 — Deep Learning Project
 ## A Comparative Study of Deep Learning Architectures for Multivariate Energy Time-Series Forecasting
-
-**Course:** DS8013 — Deep Learning  
-**Semester:** Semester 2  
-**Institution:** Toronto Metropolitan University (TMU)  
-**Students:** Nishi Patel (501356244) · Devanshu Prajapati (501389606)
-
 ---
 
 ## What This Project Does
